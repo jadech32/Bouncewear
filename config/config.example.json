@@ -1,0 +1,14 @@
+[
+  {
+    "email": "john@smith.com",
+    "firstname": "John",
+    "lastname": "Smith",
+    "street": "Main Street",
+    "street_number": "123",
+    "city": "Vancouver",
+    "zip": "X3X 3X3",
+    "state": "BC",
+    "country": "CA",
+    "size": "10"
+  }
+]
