@@ -4,4 +4,4 @@ cfscrape==1.8.0
 colorama==0.3.9
 requirements==0.1
 dhooks==1.1.0
-urllib3==1.23
+urllib3==1.26.5
